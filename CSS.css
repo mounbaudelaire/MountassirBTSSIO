@@ -1,0 +1,13 @@
+.FloatLeft {
+    float: left;
+    
+}
+
+#DecaleButton{
+    margin-left: 10px;
+}
+
+#DecaleText{
+    display: flex;
+    padding-left: 10px
+}
